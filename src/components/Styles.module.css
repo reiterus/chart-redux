@@ -1,0 +1,29 @@
+.app {
+  padding: 40px;
+}
+
+.center {
+  margin-top: 50px;
+}
+
+.select {
+  padding: 5px;
+}
+
+.loading {
+  margin-top: 200px;
+  color: lightgray;
+}
+
+.button {
+  padding: 5px;
+  margin: 0 10px;
+}
+
+.justPadding {
+  padding: 5px;
+}
+
+.marginTop {
+  margin-top: 60px;
+}
