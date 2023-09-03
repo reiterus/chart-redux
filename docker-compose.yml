@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  chart:
+    build:
+      context: .
+    volumes:
+      - ./tmp:/tmp:z
+    ports:
+      - "9972:80"
